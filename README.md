@@ -69,6 +69,9 @@ Added this block to `ossec.conf`:
 Analyzing event log: 'Microsoft-Windows-Sysmon/Operational'
 
 screeshot
+## 🔐 File Integrity Monitoring (FIM)
+
+![FIM Alerts](screenshots/fim-alerts-1.png)
 
 FIM Configuration
 Inside :<stscheck>
